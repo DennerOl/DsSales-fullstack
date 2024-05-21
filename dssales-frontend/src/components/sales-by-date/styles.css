@@ -36,3 +36,7 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.sales-by-date-chart {
+  width: 890px;
+}
